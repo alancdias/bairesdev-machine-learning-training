@@ -2,7 +2,7 @@
 <p>Este desafio faz parte do Bootcamp "BairesDev - Machine Learning Training", da DIO.
 <p>O desafio consiste criar um assistente virtual que receba comandos em voz e os interprete e converta em ações.
 <p>O assistente foi criado utilizando a biblioteca <a href="https://pypi.org/project/SpeechRecognition/">SpeechRecognition</a> e a API do Google para conversão de voz em texto.</p>
-<p>Para que o assistente responda, foi utilizada a biblioteca <a href="https://pypi.org/project/playsound3/">PlaySound3</a> para conversão de texto em voz.</p>
+<p>Para que o assistente responda, foram utilizadas as bibliotecas <a href="https://pypi.org/project/gTTS/">gTTS</a> para conversão de texto em voz e <a href="https://pypi.org/project/playsound3/">PlaySound3</a> para reprodução da voz.</p>
 <p>A versão inicial do assistente tenta reconhecer e executar os seguintes comandos:
 
 
