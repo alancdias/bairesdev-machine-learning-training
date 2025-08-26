@@ -1,4 +1,4 @@
-## Desafio de Projeto: Treinamento de Redes Neurais com Transfer Learning
+## :computer: Desafio de Projeto: Treinamento de Redes Neurais com Transfer Learning
 <p>Este desafio faz parte do Bootcamp "BairesDev - Machine Learning Training", da DIO.
 <p>O desafio consiste em comparar a performance de uma rede neural criada do zero com a de uma criada a partir da técnica de transfer learning.
 <p>O dataset utilizado para o desafio consiste de duas classes de imagens obtidas no Dataset "21 Hand Gesture Images" disponível na plataforma Kaggle pelo link https://www.kaggle.com/datasets/vijay20213/hand-gesture-images-with-mediapipe.
