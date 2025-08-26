@@ -1,4 +1,4 @@
-## Desafio de Projeto: Cálculo de Métricas de Avaliação de Aprendizado
+## :computer: Desafio de Projeto: Cálculo de Métricas de Avaliação de Aprendizado
 <p> Este desafio de projeto se refere ao módulo "Teoria do Aprendizado Estatístico" do bootcamp "BairesDev Machine Learning Training", na plataforma DIO.
 <p> O projeto consiste em obter, a partir de um modelo de aprendizado de máquina, as seguintes métricas de desempenho:
 
