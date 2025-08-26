@@ -1,4 +1,4 @@
-## Desafio de Projeto: Criando um Sistema de Assistência Virtual do Zero
+## :computer: Desafio de Projeto: Criando um Sistema de Assistência Virtual do Zero
 <p>Este desafio faz parte do Bootcamp "BairesDev - Machine Learning Training", da DIO.
 <p>O desafio consiste criar um assistente virtual que receba comandos em voz e os interprete e converta em ações.
 <p>O assistente foi criado utilizando a biblioteca <a href="https://pypi.org/project/SpeechRecognition/">SpeechRecognition</a> e a API do Google para conversão de voz em texto.</p>
