@@ -1,4 +1,4 @@
-## :computer: Desafio de Projeto: Criando um Sistema de Recomendação por Imagens Digitais
+## 💻 Desafio de Projeto: Criando um Sistema de Recomendação por Imagens Digitais
 <p>Este desafio faz parte do Bootcamp "BairesDev - Machine Learning Training", da DIO.
 <p>O desafio consiste criar um sistema de recomendação de produtos com base em similaridade de imagens.
 <p>O programa deverá receber uma imagem e exibir as 4 imagens mais similares a essa, dentre as contidas na base de dados.
@@ -9,7 +9,7 @@
 - features_extraction.ipynb: extrai as features das imagens da base e as salva no arquivo image_features.csv;
 - image_query.ipynb: com base em uma imagem de consulta, exibe as 4 imagens mais similares a essa.
 
-### Habilidades e Recursos Aplicados:
+### 💡 Habilidades e Recursos Utilizados
 
 
 - ![](https://img.shields.io/badge/python-170888?logo=python&labelColor=170888)
