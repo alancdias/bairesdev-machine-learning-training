@@ -1,7 +1,7 @@
 ## 💻 Desafio de Projeto: Criando um Sistema de Recomendação por Imagens Digitais
 <p>Este desafio faz parte do Bootcamp "BairesDev - Machine Learning Training", da DIO.
 <p>O desafio consiste criar um sistema de recomendação de produtos com base em similaridade de imagens.
-<p>O programa deverá receber uma imagem e exibir as 4 imagens mais similares a essa, dentre as contidas na base de dados.
+<p>O sistema deverá receber uma imagem e exibir as 4 imagens mais similares a essa, dentre as contidas na base de dados.
 <p>Para base de dados, foi utilizado o dataset <a href="https://www.kaggle.com/datasets/bhaskar2443053/fashion-small">Fashion Small</a>, do Kaggle.
 <p>Para extração de features das imagens, foi utilizada a rede pretreinada VGG16, que possui implementação no framework Keras.
 <p>O projeto é constituído principalmente por dois Jupyter Notebooks:
