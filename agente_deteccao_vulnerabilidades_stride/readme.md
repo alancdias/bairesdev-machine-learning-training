@@ -6,8 +6,9 @@
 ### 💡 Habilidades e Recursos Utilizados
 
 
-- ![](https://img.shields.io/badge/python-170888?logo=python&labelColor=170888)
-- ![](https://img.shields.io/badge/gpt4o-criação_de_agente_para_desenvolvimento_de_código-blue?logo=openai&labelColor=170888)
-- ![](https://img.shields.io/badge/microsoft_copilot-criação_de_frontend-blue?logo=githubcopilot&labelColor=170888)
+- [![](https://img.shields.io/badge/python-170888?logo=python&labelColor=170888)]()
+- [![](https://img.shields.io/badge/gpt4o-criação_de_agente_para_desenvolvimento_de_código-blue?logo=openai&labelColor=170888)]()
+- [![](https://img.shields.io/badge/microsoft_copilot-criação_de_frontend-blue?logo=githubcopilot&labelColor=170888)]()
+
 
 
