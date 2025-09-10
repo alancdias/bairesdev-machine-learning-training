@@ -1,0 +1,6 @@
+torre
+cavalo
+bispo
+rainha
+rei
+peao
